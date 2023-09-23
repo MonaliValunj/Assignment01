@@ -89,26 +89,78 @@ console.log(val2)
  */
 
 //STEP 10
+/* let str = "name";
+console.log(typeof str);
+
+let num = 1;
+console.log(typeof num);
+
+let val = true;
+console.log(typeof val);
+console.log(typeof true);
+
+console.log(typeof undefined);
+let obj = {};
+console.log(typeof obj);
+ */
+
 
 //STEP 11
+//window.alert("Hello "+ "Monali Valunj, " +"welcome to the JavaScript class!");
+
 
 //STEP 12
+//  let myName = "Monali Valunj";
+// window.alert("Hello "+ myName +", " +"welcome to the JavaScript class!");
+
 
 //STEP 13
+/* 
+let myName = "Monali Valunj";
+let course = "Javascript"
+window.alert("Hello "+ myName +", " +"welcome to the " + course + " class!");
+ */
+
 
 //STEP 14
+/* 
+let myName = "Monali Valunj";
+let course = "Javascript"
+window.alert("Hello "+ myName +"," +"\nwelcome to the " + course + " class!");
+ */
 
 //STEP 15
+/* 
+let myName = prompt("Enter your name: ");
+let course = "Javascript"
+window.alert("Hello "+ myName +"," +"\nwelcome to the " + course + " class!");
+ */
 
 //STEP 16
+/* 
+let myName = prompt("Enter your name: ");
+let course = prompt("Which class are you taking: ");
+window.alert("Hello "+ myName +"," +"\nwelcome to the " + course + " class!");
+ */
 
 //STEP 17
+/* let x = 10;
+let y = 20;
+console.log(x+y);
+ */
 
 //STEP 18
+/* let x = 20;
+console.log(x+=20);
+ */
 
 //STEP 19
+// let x = 20;
+// console.log(x*=5);
 
 //STEP 20
+// let x = 20%3;
+// console.log(x/=1);
 
 //STEP 21
 
