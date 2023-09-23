@@ -163,5 +163,9 @@ console.log(x+=20);
 // console.log(x/=1);
 
 //STEP 21
+// let a =1, b =2;
+// console.log(a<b && a!=b);
 
 //STEP 22
+// let a =3, b =4;
+// console.log(a==b || a>=b);
