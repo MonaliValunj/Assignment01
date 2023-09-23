@@ -80,6 +80,13 @@ console.log(someString)
  */
 
 //STEP 9
+/* 
+let val1 = null
+console.log(val1)
+
+let val2 
+console.log(val2)
+ */
 
 //STEP 10
 
