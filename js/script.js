@@ -67,6 +67,19 @@
 // console.log(someString);
 
 // // STEP 9
-let firstVar = null
-let secondVar
-console.log(`firstVar: ${firstVar} , secondVar: ${secondVar} `)
+// let firstVar = null
+// let secondVar
+// console.log(`firstVar: ${firstVar} , secondVar: ${secondVar} `)
+
+// // STEP 10
+// let obj =  { name: "A"}
+// console.log(typeof "Hello");        // string
+// console.log(typeof 42);             // number
+// console.log(typeof true);           // boolean
+// console.log(typeof undefined);      // undefined
+// console.log(typeof obj);            // object
+
+
+// STEP 11
+let name = "Zak Ruvalcaba"
+alert('Hello ' + name +   ' welcome to the JavaScript class!')
