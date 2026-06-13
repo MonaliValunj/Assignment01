@@ -52,4 +52,21 @@
 
 // console.log(myVar + " apples")
 
-// STEP 7
+// // STEP 7
+// // First variable: Boolean + String
+// let result1 = true + " learning JavaScript";
+// console.log(result1); // true is learning JavaScript
+
+// // Second variable: Number + Boolean
+// let result2 = 10 + true;
+// console.log(result2); // 11
+
+// // STEP 8
+// //not valid javascript-> below is the fixed string using Escape character
+// let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
+// console.log(someString);
+
+// // STEP 9
+let firstVar = null
+let secondVar
+console.log(`firstVar: ${firstVar} , secondVar: ${secondVar} `)
