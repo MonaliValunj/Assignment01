@@ -81,5 +81,33 @@
 
 
 // STEP 11
-let name = "Zak Ruvalcaba"
-alert('Hello ' + name +   ' welcome to the JavaScript class!')
+// alert('Hello ' + 'Monali Valunj' +   ' welcome to the JavaScript class!')
+
+//STEP 12
+// let myName = "Monali Valunj";
+// window.alert("Hello "+ myName +", " +"welcome to the JavaScript class!");
+
+
+//STEP 13
+// let myName = "Monali Valunj";
+// let course = "JavaScript"
+// window.alert("Hello "+ myName +", welcome to the " + course + " class!");
+
+
+//STEP 14
+// let myName = "Monali Valunj";
+// let course = "JavaScript"
+// window.alert("Hello "+ myName +",\nwelcome to the " + course + " class!");
+
+
+//STEP 15
+// let myName = prompt("Enter your name: ");
+// let course = "JavaScript"
+// window.alert("Hello "+ myName +",\nwelcome to the " + course + " class!");
+
+
+//STEP 16
+// let myName = prompt("Enter your name: ");
+// let course = prompt("Which class are you taking: ");
+// window.alert("Hello "+ myName +",\nwelcome to the " + course + " class!");
+
