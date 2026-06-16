@@ -49,8 +49,8 @@
 
 // STEP 6
 // let myVar = 10
-
 // console.log(myVar + " apples")
+
 
 // // STEP 7
 // // First variable: Boolean + String
@@ -111,3 +111,20 @@
 // let course = prompt("Which class are you taking: ");
 // window.alert("Hello "+ myName +",\nwelcome to the " + course + " class!");
 
+//STEP 17
+// let x = 10;
+// let y = 20;
+// console.log(x+y);
+
+
+//STEP 18
+// let x = 20;
+// console.log(x+=20);
+ 
+//STEP 19
+// let x = 20;
+// console.log(x*=5);
+
+//STEP 20
+// let x = 20%3;
+// console.log(x/=1);
